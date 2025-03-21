@@ -4,10 +4,28 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Dynamic Island.xcscheme_^#shared#^_</key>
+		<key>Dynamic Island WidgetExtension.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+		<key>Dynamic Island.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>7A4B514A2D8BF6F1002EBE28</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7A4B52212D8C0B95002EBE28</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
